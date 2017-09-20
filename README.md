@@ -20,6 +20,11 @@ I encourage every one to contribute.
 ## Syllabus
 
 ## Open Courses
+Name	| Platform	| Tools	| Notes	|
+--------|---------------|-------|-------|
+| [High Performance Computing](https://in.udacity.com/course/high-performance-computing--ud281), by Georgia Tech | Udacity	| OpenMP, MPI, Cilk Plus	| Programming environment not provided to non-Georgia Tech students. |
+| [Intro to Parallel Programming](https://in.udacity.com/course/intro-to-parallel-programming--cs344) by NVidia	| Udacity	| CUDA	| - |
+| [High-performance Computing for Reproducible Genomics](https://www.edx.org/course/high-performance-computing-reproducible-harvardx-ph525-6x-0) by Harvard | edX	| -	| Part of Genomics Data Anaylsis X series by edX.	|
 
 ## Tutorials
 
